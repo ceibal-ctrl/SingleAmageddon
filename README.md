@@ -1,6 +1,6 @@
 # Kaggle API Python Project
 
-This project uses the **Kaggle API** to download datasets and/or interact with Kaggle competitions programmatically using Python. We interpret parse and make graphical productions in Python.
+This project uses the **Kaggle API** to download datasets and/or interact with Kaggle competitions programmatically using Python. We interpret parse and make graphical productions in Python in the form of histograms and pie charts.
 
 ## Features
 
